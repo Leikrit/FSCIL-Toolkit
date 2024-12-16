@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this toolkit, please cite it as below."
+authors:
+  - family-names: Li
+    given-names: Jinyi
+  - family-names: Yao
+    given-names: Yiyang
+  - family-names: Li
+    given-names: Yulong
+title: "FSCIL-Toolkit"
+version: 1.0.0
+date-released: 2024-12-16
